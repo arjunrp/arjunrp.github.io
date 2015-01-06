@@ -1,3 +1,20 @@
+/*
+styles for viewport
+
+
+*/
+.section{
+    opacity: 0;
+}
+.vhidden{
+     opacity:0;
+}
+.vvisible{
+     opacity:1;
+}
+
+
+
 body {
   font-family: 'Lato', arial, sans-serif;
 
