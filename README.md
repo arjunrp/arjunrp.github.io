@@ -1,6 +1,6 @@
 arjunrp.github.io
 =================
 
-My Profile[1]
+[My Profile]
 
-[1]:arjunrp.github.io
+[My Profile]:http://arjunrp.github.io
